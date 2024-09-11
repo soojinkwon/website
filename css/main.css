@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.container .col-md-8{font-family: "Gowun Batang", serif;}
+.container .col-md-8 h2{font-family: "Gowun Batang", serif;}
+
+.timeline-heading h3{font-family: "Gowun Batang", serif;}
+.timeline-body p{font-family: "Gowun Batang", serif;}
+.services-padding{font-family: "Gowun Batang", serif;}
+.feature-copy h3{font-family: "Gowun Batang", serif;}
+.second-block{font-family: "Gowun Batang", serif;}
+.blog-text{font-family: "Gowun Batang", serif;}
+.blog-text h3{font-family: "Gowun Batang", serif;}
+
+.work .s1 { height: 530px; }
+
+.work .desc .btn_more { display: flex; justify-content: center; gap: 10px; }
+.work .desc span { border-color: #000; }
+.work .desc span:hover { background: #000; color: #fff; }
